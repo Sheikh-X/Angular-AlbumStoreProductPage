@@ -1,7 +1,7 @@
 export interface Track {
-    trackNumber: Number;
+    trackNumber: number;
     trackName: String;
     trackLength: String;
-    trackPrice: Number
+    trackPrice: number
    
 }
